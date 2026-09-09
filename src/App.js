@@ -1,8 +1,7 @@
-
-
 import React from 'react'
-import WeatherApp from './components/WeatherApp' 
-import './style.css' 
+import WeatherApp from './components/WeatherApp'
+import './style.css'
+
 function App() {
 	return (
 		<div className='App'>
